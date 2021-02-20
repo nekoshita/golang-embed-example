@@ -1,5 +1,8 @@
 # Go v1.16に追加されembedを試す
 
+# 解説記事
+https://zenn.dev/nekoshita/articles/cb5238791c61ef
+
 # embedのメモ
 - ディレクティブで埋め込める変数の型は、string、[]byte、embed.FS
 - 埋め込みは関数の内部など閉じたスコープで行うことができない
