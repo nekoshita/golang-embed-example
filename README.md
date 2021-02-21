@@ -1,4 +1,4 @@
-# Go v1.16に追加されembedを試す
+# Go v1.16に追加されたembedを試す
 
 # 解説記事
 https://zenn.dev/nekoshita/articles/cb5238791c61ef
